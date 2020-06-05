@@ -17,3 +17,6 @@ Exemplo Feito Redis e Node.js (registrar, pesquisar e excluir usuário)
   
   
    Prontinho !!  
+   
+   ![gif (1)](https://user-images.githubusercontent.com/48594322/83911012-e8e11780-a741-11ea-969f-b984781be8ec.gif)
+
